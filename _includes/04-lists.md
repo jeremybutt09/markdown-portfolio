@@ -1,0 +1,6 @@
+- Sports
+  - Hockey
+  - Tennis
+  - Softball
+- Computer Games
+- Friends
